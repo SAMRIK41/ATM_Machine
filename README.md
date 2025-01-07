@@ -1,4 +1,4 @@
-# ATM Machine Using C Language
+# ATM Machine Fuctionality Using C Language
 
 ## **About the Project**
 
