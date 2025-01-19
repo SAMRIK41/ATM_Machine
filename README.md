@@ -9,7 +9,7 @@ This project is a simple **ATM Machine Simulation** developed in **C language**.
 ## **How the Project Works**
 
 1. **Welcome Screen**:
-   - The program starts with a welcome message and requests the user to insert their **card number**.
+   - The program starts with a welcome message and requests and the user to insert their **card number**.
 
 2. **Card Verification**:
    - The program checks whether the card user is a **new user** or an **existing user**:
