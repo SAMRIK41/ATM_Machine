@@ -1,4 +1,4 @@
-# ATM Machine Fuctionality Using C Language
+# ATM Machine Simulation developed in C Language
 
 ## **About the Project**
 
