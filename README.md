@@ -1,9 +1,3 @@
-Below is a **clean, standard GitHub README.md** written in a **professional, repository-ready style**, using only **`#` and `*` Markdown**, concise sections, and clear formatting suitable for public projects.
-
-You can copy-paste this directly into **`README.md`**.
-
----
-
 # ATM Machine Simulation (Java)
 
 ## Overview
@@ -139,14 +133,3 @@ Follow the on-screen instructions to perform ATM operations.
 
 This project provides a foundational understanding of how ATM systems work using **Java and core data structures**.
 It is suitable for **academic projects**, **Java practice**, and **OOP demonstrations**.
-
----
-
-If you want, I can also:
-
-* Add **badges (Java, OOP, DSA)**
-* Make it **resume-optimized**
-* Write a **professional project description**
-* Align it with **interview-ready explanations**
-
-Just say the word.
