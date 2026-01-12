@@ -1,8 +1,8 @@
-# **ATM Machine Simulation** developed in C Language
+# **ATM Machine Simulation** developed in java Language
 
 ## **About the Project**
 
-This project is a simple **ATM Machine Simulation** developed in **C language**. It mimics the basic functionalities of an ATM machine, allowing users to perform various banking operations like cash withdrawal, PIN reset, balance inquiry, and cash deposit. The program uses a **linked list** to manage customer profiles dynamically and includes basic password-based authentication for security.
+This project is a simple **ATM Machine Simulation** developed in **java language**. It mimics the basic functionalities of an ATM machine, allowing users to perform various banking operations like cash withdrawal, PIN reset, balance inquiry, and cash deposit. The program uses a **linked list** to manage customer profiles dynamically and includes basic password-based authentication for security.
 
 ---
 
